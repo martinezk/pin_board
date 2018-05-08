@@ -13,6 +13,7 @@ gem 'devise'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'sass-rails', '>= 3.2'
 gem 'paperclip'
+gem 'masonry-rails'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
